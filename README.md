@@ -4,7 +4,7 @@
 
 ### **Features:**
 
-- **Data Input:** The model accepts various student attributes like academic scores, skills, etc.
+- **Data Input:** The model accepts various student attributes like academic scores,etc.
 - **Prediction Output:** Based on input data, the model predicts if a student is likely to be placed or not.
 - **Evaluation Metrics:** Model performance is evaluated using accuracy, precision, recall, and F1 score.
 
